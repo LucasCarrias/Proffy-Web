@@ -12,7 +12,7 @@ function TeacherItem(){
                         <img src="https://avatars3.githubusercontent.com/u/24925816?s=460&u=df080e98a2d7cfcc6d3013bcedcba40b74e036be&v=4" alt="Lucas Carrias"/>
                         <div>
                             <strong>Lucas Carrias</strong>
-                            <span>Python</span>
+                            <span>Web Scraping</span>
                         </div>
                     </header>
 
