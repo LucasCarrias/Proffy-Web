@@ -40,7 +40,7 @@ function TeacherList(){
                     </header>
 
                     <p>
-                        Aluno de Análise e Desenvolvimento de Sistemas.abs
+                        Aluno de Análise e Desenvolvimento de Sistemas.
                         <br/><br/>
                         Apaixonado por invertar coisas aleatórias e tentar automatizar tudo (que é chato) na vida. Meu foco é em web scrapping, hacking e desenvolvimento web;
 
@@ -51,13 +51,12 @@ function TeacherList(){
                             Preço/hora
                             <strong>R$ 40.00</strong>
                         </p>
-                        
+
                         <button type="button">
                         <img src={whatsappIcon} alt="WhatsApp"/>
                         Entrar em contato
                     </button>
-                    </footer>
-                    
+                    </footer>                    
 
                 </article>
             </main>
